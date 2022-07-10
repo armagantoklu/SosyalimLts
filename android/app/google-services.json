@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804761798267",
+    "project_id": "armtex-1d468",
+    "storage_bucket": "armtex-1d468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804761798267:android:fbbd352aa6f70d2dadc4de",
+        "android_client_info": {
+          "package_name": "com.armproex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804761798267-sf8u3s5cq2lmomhkm0g9g26qla32ungq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUwMXYhRnv8std-vpTtwORraaiOzunfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804761798267-sf8u3s5cq2lmomhkm0g9g26qla32ungq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
